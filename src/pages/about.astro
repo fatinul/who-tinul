@@ -1,8 +1,7 @@
 
 ---
 import Layout from '../layouts/BlogPost.astro';
-import ProfileImage from '../assets/profile_pic.jpg';
-import AboutHeroImage from '../assets/blog-placeholder-about.jpg';
+import AboutHeroImage from '../assets/About-Hero.png';
 
 const pubDate = new Date('July 13 2025');
 ---
@@ -14,14 +13,6 @@ const pubDate = new Date('July 13 2025');
   heroImage={AboutHeroImage}
 >
   <section style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img 
-      src={ProfileImage.src} 
-      alt="Fatinul's profile photo" 
-      width="180" 
-      height="180" 
-      style="border-radius: 50%; margin-bottom: 1rem;"
-      loading="lazy"
-    />
 
     <h2 style="font-size: 1.75rem; margin-bottom: 0.5rem;">Hi, I'm Fatinul 👋</h2>
 
