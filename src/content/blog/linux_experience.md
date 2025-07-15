@@ -41,7 +41,7 @@ As one of the open source communities famous site: Github. It makes me have a ne
 
 Not to mention, but there are countless amount of community project that are super niche but is extremely helpful either in your learning, day-to-day usecases or just for a funsies.
 
-![the-mee-null](/images/1-opensource.jpg)
+![opensource](/images/1-opensource.jpg)
 
 
 #### 3. 🤖 How easy it is for programmers
